@@ -15,7 +15,7 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'devise-bootstrap-views'
 gem 'cancan', '~> 1.6', '>= 1.6.10'
 gem "font-awesome-rails"
-gem 'aws-sdk', '~> 1.6'
+gem 'aws-sdk', '~> 2.3'
 
 group :development, :test do
   gem 'byebug'
